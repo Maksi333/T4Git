@@ -16,9 +16,9 @@ public class PrintStuff {
 
         public void isB(){
             if (B){
-                System.out.println("A be must be, by reffrence to its beeing.");
+                System.out.println("A Bee must be, by reffrence to its Beeing.");
             } else {
-                System.out.println("A bee can not not be for then it would not be a bee.");
+                System.out.println("A Bee can not not be for then it would not be a Bee.");
             }
         }
     }
