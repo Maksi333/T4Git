@@ -10,4 +10,6 @@ public class Simon {
         this.lastName = lastName;
         this.profession = profession;
     }
+
+
 }
